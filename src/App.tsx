@@ -18,7 +18,7 @@ function App() {
         </GridItem>
         <Show above="lg">
           <GridItem area={'aside'}>
-            Aside
+            Side panel
           </GridItem>
         </Show>
         <GridItem area={'main'}>
